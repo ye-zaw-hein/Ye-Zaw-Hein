@@ -1,4 +1,4 @@
-<h1 align="center">Mingalarbar 👋, I'm Ye` Zaw Hein</h1>
+![Header](./header.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ye-zaw-hein&label=Profile%20views&color=0e75b6&style=flat" alt="ye-zaw-hein" /> </p>
 
