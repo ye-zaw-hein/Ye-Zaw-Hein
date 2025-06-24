@@ -4,7 +4,7 @@
 
 ## Tech Stack
 
-- Lang & Framework: Javascript, Typescript, Php, Golang, Laravel, Nodejs, Vue, React, React Native, Next, Nuxt
+- Lang & Framework: Javascript, Typescript, Php, Golang, Laravel, Nodejs, Vue, React, Vite, React Native, Next, Nuxt
 - Interest: Svelte, Flatter 
 
 ## Things I Code With
